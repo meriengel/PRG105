@@ -9,11 +9,11 @@
 # TODO 6.1 Introduction to File Input and Output
 # Assign the variable file_variable to open states.txt in read mode
 
-file_variable = open("states.txt", 'r')
+
 
 # Close the file
 
-file_variable.close()
+
 
 # Assign the variable state_capitals to open capitals.txt in write mode.
 # Please note, the file does not currently exist, and by opening it in
@@ -42,4 +42,47 @@ file_variable.close()
 #print the three variables
 
 # TODO 6.2 Using loops to process files
+# Complete the program below to read in and count all of the entries in the states file
+
+# open the file in read mode
+states_file =
+counter = 0
+# write a for loop to read in all of the lines, and print them on the screen, add 1 to counter for each line
+
+
+# close the file
+
+# TODO 6.3 Processing records
+
+# You are going to finish the program below to write data to a file
+
+# entering book information
+books = 3
+
+# open the file books.txt for writing
+books_file =
+
+# use a for loop to get title and author from the user use the range 1, books + 1
+
+    # get the data in the loop
+    
+    # write the data as a record in the loop, make sure to include the \n at the end of the line
+    
+# close the file
+
+
+# TODO 6.4 Exceptions
+# In this exercise you will try to open a file that does not exist, capture the error, and display a custom error message
+
+# create a try statement:
+
+# open the file superheros.txt for reading (we are not writing, it would create the file)
+
+# close the file
+
+# create an except IOError, and a print statement telling the user that the file doesn't exist
+
+
+
+
 
