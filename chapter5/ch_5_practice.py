@@ -7,12 +7,12 @@
 """
 
 # TODO 5.2 - calling an existing function
-# beneath the following function, write the code to call it
+# beneath the following function, write the code to call it, remove the """ """ before testing
 
-
+"""
 def hello():
     print("Hello Sweetie!")
-
+"""
 
 # write the code to call the hello function on the next line
 
@@ -40,8 +40,9 @@ def hello():
 
 # TODO 5.5 passing arguments to Functions
 # complete the code below to pass the my_number variable from
-# main 3 into square with the parameter name of value
+# main 3 into square with the parameter name of value remove the """ """ before testing
 
+"""
 def main3():
     my_number = 7
     square()
@@ -54,12 +55,13 @@ def square():
     
 main3()
 
+"""
 
 # TODO 5.5 passing multiple arguments
 # complete the code below to pass the variables from main into
 # parameters for add. Look at the code to determine the correct
-# variable / parameter names.
-
+# variable / parameter names. Remove the """ """
+"""
 def main4():
     num_one = 5
     num_two = 7
@@ -72,12 +74,14 @@ def add():
 
 
 main4()
+"""
+
 
 # TODO 5.7 value returning functions
 # Add a statement importing the random library
 # Add the global constant PI with a value of 3.14 before the main5 function
 
-
+"""
 def main5():
     r = # TODO generate a random integer between 1-10, assign it to the variable r
     r2 = r * r
@@ -90,11 +94,11 @@ def area(radius_squared):
     
     
 main5()
-
+"""
 
 # TODO 5.8 value returning functions
-# Complete the following program
-
+# Complete the following program, remove the """  """ before testing
+"""
 def main6():
     print("This program will calculate your BMI")
     height = float(input("What is your height in inches?  "))
@@ -113,7 +117,7 @@ def bmi():
 
 main6()
 
-
+"""
 # TODO 5.9 the math module
 # import math
 # write a statement that uses the ceil function on the following variable

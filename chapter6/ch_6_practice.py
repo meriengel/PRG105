@@ -10,9 +10,7 @@
 # Assign the variable file_variable to open states.txt in read mode
 
 
-
 # Close the file
-
 
 
 # Assign the variable state_capitals to open capitals.txt in write mode.
@@ -32,21 +30,25 @@
 # TODO reading data in from a file
 # Assign the variable states_data to open states.txt in read mode
 
-# read in three lines from the file, assign to the variables below
- line1 =
- line2 =
- line3 =
+# read in three lines from the file, assign to the variables below, Remove """   """ to test
+"""
+line1 =
+line2 =
+line3 =
+"""
  
 # close the file
 
-#print the three variables
+# print the three variables
 
 # TODO 6.2 Using loops to process files
 # Complete the program below to read in and count all of the entries in the states file
 
 # open the file in read mode
+"""
 states_file =
 counter = 0
+"""
 # write a for loop to read in all of the lines, and print them on the screen, add 1 to counter for each line
 
 
@@ -59,14 +61,14 @@ counter = 0
 # entering book information
 books = 3
 
-# open the file books.txt for writing
-books_file =
+# open the file books.txt for writing remove the """ """ to test
+"""books_file = """
 
 # use a for loop to get title and author from the user use the range 1, books + 1
 
-    # get the data in the loop
+# get the data in the loop
     
-    # write the data as a record in the loop, make sure to include the \n at the end of the line
+# write the data as a record in the loop, make sure to include the \n at the end of the line
     
 # close the file
 
@@ -81,8 +83,3 @@ books_file =
 # close the file
 
 # create an except IOError, and a print statement telling the user that the file doesn't exist
-
-
-
-
-
