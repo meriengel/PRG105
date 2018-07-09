@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0fbc54f-65cc-4796-8b7e-562ffef9cedd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter7/states.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter5/ch_5_practice.py" afterPath="$PROJECT_DIR$/chapter5/ch_5_practice.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter6/ch_6_practice.py" afterPath="$PROJECT_DIR$/chapter6/ch_6_practice.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter7/ch_7_practice.py" afterPath="$PROJECT_DIR$/chapter7/ch_7_practice.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter8/ch_8_practice.py" afterPath="$PROJECT_DIR$/chapter8/ch_8_practice.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,21 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ch_7_practice.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter7/ch_7_practice.py">
+      <file leaf-file-name="ch_8_practice.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter8/ch_8_practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="763">
-              <caret line="85" column="36" lean-forward="false" selection-start-line="85" selection-start-column="36" selection-end-line="85" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="states.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter7/states.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="836">
+              <caret line="38" column="14" lean-forward="false" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -64,7 +52,6 @@
         <option value="$PROJECT_DIR$/chapter3/ch_3_practice.py" />
         <option value="$PROJECT_DIR$/chapter4/ch_4_practice.py" />
         <option value="$PROJECT_DIR$/chapter2/ch_2_practice.py" />
-        <option value="$PROJECT_DIR$/chapter8/ch_8_practice.py" />
         <option value="$PROJECT_DIR$/chapter9/ch_9_practice.py" />
         <option value="$PROJECT_DIR$/chapter10/ch_10_practice.py" />
         <option value="$PROJECT_DIR$/chapter11/ch_11_practice.py" />
@@ -73,6 +60,7 @@
         <option value="$PROJECT_DIR$/chapter6/ch_6_practice.py" />
         <option value="$PROJECT_DIR$/chapter5/ch_5_practice.py" />
         <option value="$PROJECT_DIR$/chapter7/ch_7_practice.py" />
+        <option value="$PROJECT_DIR$/chapter8/ch_8_practice.py" />
       </list>
     </option>
   </component>
@@ -82,11 +70,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="174" />
-    <option name="y" value="74" />
-    <option name="width" value="1571" />
-    <option name="height" value="1337" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="983" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -140,6 +127,11 @@
               <item name="PRG105" type="462c0819:PsiDirectoryNode" />
               <item name="chapter7" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PRG105" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PRG105" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -152,7 +144,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -171,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ch_7_practice">
+  <component name="RunManager" selected="Python.ch_8_practice">
     <configuration name="ch_3_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,38 +234,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="printing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ch_8_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="prg105" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter2/printing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter8/ch_8_practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.printing" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ch_4_practice" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ch_3_practice" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ch_6_practice" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ch_7_practice" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ch_4_practice" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ch_3_practice" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ch_6_practice" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ch_7_practice" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ch_8_practice" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ch_7_practice" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ch_6_practice" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ch_3_practice" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ch_4_practice" />
-        <item index="4" class="java.lang.String" itemvalue="Python.printing" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ch_8_practice" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ch_7_practice" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ch_6_practice" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ch_3_practice" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ch_4_practice" />
       </list>
     </recent_temporary>
   </component>
@@ -302,13 +293,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2560" height="1337" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="983" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28359374" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28647497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998455" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -337,11 +328,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter6/ch_6_practice.py">
+    <entry file="file://$PROJECT_DIR$/chapter7/ch_7_practice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7/states.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/ch_6_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -349,7 +355,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="39" column="14" lean-forward="false" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -357,7 +362,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -365,7 +369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -465,7 +468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="39" column="14" lean-forward="false" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -474,7 +476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1136">
           <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -482,15 +483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter8/ch_8_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -506,6 +498,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="763">
           <caret line="85" column="36" lean-forward="false" selection-start-line="85" selection-start-column="36" selection-end-line="85" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter8/ch_8_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="14" lean-forward="false" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
           <folding />
         </state>
       </provider>
