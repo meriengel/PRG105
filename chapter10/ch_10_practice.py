@@ -10,13 +10,17 @@
 """
 
 import random
+# TODO change class name to Dice
 
 
 class Coin:  # note class names are capitalized
     def __init__(self):
+        # TODO change side_up to '1'
         self.side_up = 'Heads'
-        
+
+        # TODO change name to roll
     def toss(self):
+        # TODO change to reflect 6 sides and assign the number
         if random.randint(0, 1) == 0:
             self.side_up = 'Heads'
         else:
@@ -27,6 +31,7 @@ class Coin:  # note class names are capitalized
     
 
 def main():
+    # TODO change my_coin to my_dice, my_dice_two and the appropriate class name throughout main
     my_coin = Coin()
     my_coin_two = Coin()
     print('This side is up, ', my_coin.get_side_up())
