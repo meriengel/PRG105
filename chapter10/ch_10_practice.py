@@ -43,4 +43,5 @@ def main():
     print('This side is up, ', my_coin.get_side_up())
     print('This side is up, ', my_coin_two.get_side_up())
 
+
 main()
