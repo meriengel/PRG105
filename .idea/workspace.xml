@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0fbc54f-65cc-4796-8b7e-562ffef9cedd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/meriw.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/meriw.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter10/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter11/ch_11_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter11/ch_11_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter13/ch_13_py.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter13/ch_13_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crud Gui/crud-gui-start.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,11 +22,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ch_13_practice.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ch_13_practice.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter13/ch_13_practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
+            <state relative-caret-position="347">
               <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crud-gui-start.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Crud Gui/crud-gui-start.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,6 +82,7 @@
         <option value="$PROJECT_DIR$/chapter9/ch_9_practice.py" />
         <option value="$PROJECT_DIR$/chapter11/ch_11_practice.py" />
         <option value="$PROJECT_DIR$/chapter13/ch_13_practice.py" />
+        <option value="$PROJECT_DIR$/Crud Gui/crud-gui-start.py" />
       </list>
     </option>
   </component>
@@ -105,12 +114,7 @@
             <path>
               <item name="PRG105" type="b2602c69:ProjectViewProjectNode" />
               <item name="PRG105" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PRG105" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PRG105" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="Crud Gui" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -282,25 +286,25 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3287037" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3287037" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.16" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.16272727" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Data View" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,6 +318,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="Chapter 4 practice" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chapter13/ch_13_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter11/ch_11_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter9/ch_9_practice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
@@ -465,8 +483,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter13/ch_13_practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
+        <state relative-caret-position="347">
           <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crud Gui/crud-gui-start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
