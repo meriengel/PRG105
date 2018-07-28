@@ -28,7 +28,7 @@ def hello():
 
 
 # TODO 5.4 local variables
-# Write a program with a main2 function that defines the variable
+# Write a program with a main2 function that defines a variable called
 # name in the main function, and assign a name to it. Print hello
 # and the name variable. Call a second function get_name. In the
 # get_name function, ask the user for their name, then greet them
@@ -102,7 +102,7 @@ main5()
 def main6():
     print("This program will calculate your BMI")
     height = float(input("What is your height in inches?  "))
-    weight = float(input("What is your height in pounds"))
+    weight = float(input("What is your weight in pounds"))
     # TODO call the bmi function and assign the result to a variable named answer
     
     # TODO print the variable answer, make sure to format it to 1 decimal place
