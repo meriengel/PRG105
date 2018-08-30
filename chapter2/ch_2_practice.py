@@ -36,7 +36,7 @@
 #   Print "This year you are ", age <-- please note, a comma creates a list of values
 #   when using a comma in a print statement, you can mix numbers and strings
 #   Add 1 to the age (age = age + 1)
-#   Print "Next year you will be ", age
+#   Print "Next year you will be " + age
 #   Remember - when printing a variable that holds numbers you need to convert it to a string
 #   str(variable)
 
