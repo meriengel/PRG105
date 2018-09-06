@@ -8,18 +8,31 @@
 
 # TODO 3. 1 Relational Operators
 # 1. Write a statement using the variables below and a
-#   and a greater than sign that will evaluate to true.
+#   and a greater than sign that will evaluate to true. 
+#    write a print statement with the statement in parentheses.
 # 2. Write a statement using the variables below that
 #    compares two of the variables to see if they are equal
+#    write a print statement with the statement in parentheses.
 # 3. Write a statement using the variables below that compares
 #    two of the variables below to see if they are not equal
+#    write a print statement with the statement in parentheses.
 # 4. Write a statement using the variables below that uses
 #    the less than or equal to operator
+#    write a print statement with the statement in parentheses.
 
 # variables
 a = 6
 b = 8
 c = 5
+
+# 1 sample answer
+print (a > 3)
+
+# 2
+
+# 3
+
+# 4
 
 # TODO 3.2 the if else statement
 # add code below to determine if age is greater than or equal to
@@ -65,6 +78,7 @@ print("is $" + format(cost, ",.2f"))
 # 1.) write a statement using the and operator that will evaluate to true
 # 2.) write a statement using the or operator that will evaluate to true
 # 3.) write a statement using the not operator that will evaluate to true
+#  write a print statement with the statement in parentheses.
 
 d = 10
 e = 10
