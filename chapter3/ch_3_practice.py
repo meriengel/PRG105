@@ -58,10 +58,12 @@ user_password = input("Please enter the password:  ")
 
 number = int(input("Please enter a number between 1 and 5: "))
 
-# TODO 3.5 conditions
-# Buffet prices are based on a customer's age. If they are over 10
-# The cost is $12.89, if they are less than 10 the buffet is free. 
-# Complete the program below.
+# TODO 3.5 a series of conditions
+# Buffet prices are based on the persons age. If the person is a senior
+# citizen (62 or over) , the charge is $9.89. If the person is age 12-
+# 61, the charge is $12.89. If it is a child of under age 3, they eat
+# for free. If the child is between 4 and 12 they are charged $0.99 for
+# each year of age. Complete the program below. SEE SAMPLE PAGE 132
 
 customer_age = int(input("How old is the customer?   "))
 cost = 0  # initializing cost, assign the correct price to this variable
