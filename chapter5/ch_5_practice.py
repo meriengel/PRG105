@@ -78,7 +78,7 @@ main4()
 
 
 # TODO 5.7 value returning functions
-# Add a statement importing the random library
+# Add a statement importing the random library at the top of this file
 # Add the global constant PI with a value of 3.14 before the main5 function
 
 """
