@@ -42,7 +42,7 @@ line3 =
 # print the three variables
 
 # TODO 6.2 Using loops to process files
-# Complete the program below to read in and count all of the entries in the states file
+# Complete the program below to Read in and Count all of the entries in the states file
 
 # open the file in read mode
 """
