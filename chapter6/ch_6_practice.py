@@ -78,7 +78,7 @@ books = 3
 
 # create a try statement:
 
-# open the file superheros.txt for reading (we are not writing, it would create the file)
+# open the file superheros.txt for READING (we are not writing, it would create the file)
 
 # close the file
 
