@@ -47,7 +47,7 @@ print(list3)
 # Complete the following code to append the last three months of the year to the list months. Remove
 # the """   """ to test, and print the contents of months
 
-months = ["Jan", "Feb", "Mar", "Apr", "May", "June", "July", "Aug", "Sept"]
+months = list(["Jan", "Feb", "Mar", "Apr", "May", "June", "July", "Aug", "Sept"])
 
 
 # get the index of "May" from the months list and print it on screen
