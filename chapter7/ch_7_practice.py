@@ -56,7 +56,7 @@ months = list(["Jan", "Feb", "Mar", "Apr", "May", "June", "July", "Aug", "Sept"]
 
 # reverse the order of list 3
 
-# delete the number 5 from list 3
+# delete the number 5 from list 3 and print the list
 
 # print the maximum item from list 3
 
