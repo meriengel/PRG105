@@ -31,7 +31,7 @@ middle = ""
 
 # Test to see if number is a number
 
-number = 42
+number = "42"
 
 # Search for "J" in name, replace with "j" (lower case)
 
