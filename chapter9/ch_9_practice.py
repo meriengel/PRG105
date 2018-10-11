@@ -9,11 +9,11 @@
 # Finish creating the following dictionary by adding three more people and birthdays
 birthdays = {'Meri': 'May 16', 'Kathy': 'July 14'}
 
-# Print Meri's Birthday
+# 1.Print Meri's Birthday
 
-# Create an empty dictionary named registration
+# 2.Create an empty dictionary named registration
 
-# You will use the following dictionary for many of the remaining exercises
+# 3.You will use the following dictionary for many of the remaining exercises
 
 miles_ridden = {'June 1': 25, 'June 2': 20, 'June 3': 38, 'June 4': 12, 'June 5': 30, 'June 7': 25}
 
