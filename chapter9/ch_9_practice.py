@@ -32,25 +32,26 @@ print(value2)
 
 # Use the keys method to print all of the keys in miles_ridden
 
-# Use the pop method to remove june 4 then print the contents of the dictionary
+# Use the pop method to remove June 4 then print the contents of the dictionary
 
 # Use the values method to print the contents of the miles_ridden dictionary
 
 # TODO 9.2 Sets
 # Create an empty set named my_set
 
-# Create a set named days that contains the days of the week
+# Create a set named days that contains the days of the week and print the set 
+# (You will need two sets of parentheses to avoid an error) set = (([ .... ] ))
 
 
 # get the number of elements from the days set and print it
 
-# Remove Saturday and Sunday from the days set
+# Remove Saturday and Sunday from the days set, then print the set
 
-# Determine if 'Mon' is in the days set
+# Determine if 'Mon' is in the days set, print a messeage displaying the results
 
 # TODO 9.3 Serializing Objects (Pickling)
 
-# import the pickle library
+# import the pickle library at the top of the page
 
 # create the output file log and open it for binary writing
 
