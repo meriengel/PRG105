@@ -44,22 +44,32 @@ print("\n6.Use the pop method to remove june 4 then print the contents of the di
 print("\n7. Use the values method to print the contents of the miles_ridden dictionary")
 
 
+
+# Use the pop method to remove June 4 then print the contents of the dictionary
+
+
 print("\n---------------------- TODO 9.2 Sets----------------------------------------------")
 
 print("\n 1.Create an empty set named my_set")
 
+
 print("\n 2.Create a set named days that contains the days of the week")
 
 
+
 print("\n 3. get the number of elements from the days set and print it")
+
 
 print("\n 4. Remove Saturday and Sunday from the days set")
 
 print("\n 5.Determine if 'Mon' is in the days set")
 
+
+
 print("\n---------------------- TODO 9.3 Serializing Objects (Pickling)----------------------------------------------")
 
 print("\n 1. import the pickle library at the top of this file")
+
 
 print("\n 2. create the output file log and open it for binary writing")
 
