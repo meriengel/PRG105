@@ -8,10 +8,10 @@ import tkinter.messagebox
 
 
 class CrudGUI:
-    def __init__(self, master, input):
+    def __init__(self, master, input_file):
         self.master = master
         self.master.title('Welcome Menu')
-        self.input = input
+        self.input_file = input_file
 
         self.top_frame = tkinter.Frame(self.master)
         self.bottom_frame = tkinter.Frame(self.master)
@@ -49,16 +49,16 @@ class CrudGUI:
 
     def open_menu(self):
         if self.radio_var.get() == 1:
-            look_up = LookGUI(self.master, self.input)
+            look_up = LookGUI(self.master, self.input_file)
         else:
 
             tkinter.messagebox.showinfo("Hey Listen", "You have selected something not yet implemented!")
 
 
 class LookGUI:
-    def __init__(self, master, input):
+    def __init__(self, master, input_file):
         self.master = master
-        self.input = input
+        self.input_file = input_file
         self.look = tkinter.Toplevel(master)
         self.look.title("Search for customer")
         self.top_frame = tkinter.Frame(self.look)
@@ -75,7 +75,7 @@ class LookGUI:
 
         # widget for middle frame
         self.value = tkinter.StringVar()
-        self.results_label = tkinter.Label(self.middle_frame, text = 'Results: ')
+        self.results_label = tkinter.Label(self.middle_frame, text='Results: ')
         self.results = tkinter.Label(self.middle_frame, textvariable=self.value)
 
         # pack middle frame
@@ -97,16 +97,15 @@ class LookGUI:
 
     def search(self):
         try:
-            input_file = open(self.input, 'rb')
-            customers = pickle.load(input_file)
+            my_input = open(self.input_file, 'rb')
+            customers = pickle.load(my_input)
+            my_input.close()
         except(FileNotFoundError, IOError):
             customers = {}
 
-        self.customers = customers
         name = self.search_entry.get()
-        result = self.customers.get(name, 'That name was not found')
+        result = customers.get(name, 'That name was not found')
         self.value.set(result)
-
 
 
 def main():
